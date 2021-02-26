@@ -1,4 +1,4 @@
-package com.oyerickshaw.application;
+package com.catalogsearch.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
